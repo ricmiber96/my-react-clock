@@ -1,0 +1,25 @@
+.clock{
+    align-self: center;
+    display: grid;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 1000px;
+    height: 300px;
+    border: 2cm;
+    border-block-color: black;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 7em;
+    
+}
+.timer{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: monospace;
+    font-size: 8em;
+    padding-top: 0.8em;
+}
